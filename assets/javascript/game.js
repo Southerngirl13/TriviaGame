@@ -103,7 +103,7 @@ function countdown() {
 	answered = true;
 
 	//sets timer to go down
-	time = setInterval(showCountdown, 2000);
+	time = setInterval(showCountdown, 1000);
 }
 
 function showCountdown() {

@@ -1,0 +1,85 @@
+body{
+	background: url("../images/background.jpg"); 
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	color: white;
+	letter-spacing: 1.5px;
+	line-height: 3;
+
+}
+
+
+/*
+.bg { 
+    /* The image used */
+ /*   background-image: url("assets/images/background.jpg");
+
+    /* Half height */
+ /*   height: 50%; 
+
+    /* Center and scale the image nicely */
+ /*   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
+.btn-primary,.reset{
+	background-color: #0f4227;
+	letter-spacing: 1.5px;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	padding: 10px;
+	margin-top: 60px;
+	border-radius: 10px;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: #0f4227;	
+}
+
+.container{
+	margin-top: 150px; 
+	margin-left: 10px;
+	text-align: center;
+	height: 100%; 
+	width: 1000px; 
+	letter-spacing: 1.5px;
+	line-height: 1.8;
+}
+#finalMessage{
+	font-family: Raleway;
+	color: #0f4227;
+	font-size: 36px;
+
+}
+#message{
+	font-family: Raleway;
+	color: #0f4227;
+	font-size: 50px;
+}
+h3{
+	font-family: Raleway;
+	color: black;
+	line-height: 1.4;
+}
+
+.thisChoice:hover{
+	background-color: #f1b426;
+	color: white;
+	padding: 8px;
+}
+/*#startOverBtn{
+	color: purple;
+}
+/*
+#gif{
+	margin: 30px;
+}
+
+@media screen and (max-width:640px){
+	.container{
+		width: 500px;
+		margin-top: 200px;
+		size: 200%;
+	}	
+}

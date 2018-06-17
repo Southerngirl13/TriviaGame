@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Southerngirl13/MongoScraper/raw/master/public/assets/images/mongoscraper2.jpg">
+  <img src="https://github.com/Southerngirl13/TriviaGame/blob/master/assets/images/breakin.jpg">
 </h1>
 
 <h2 align="center">
@@ -12,7 +12,7 @@ This Trivia game uses JavaScript for the logic and jQuery to manipulate HTML.
 
 
 # Project Mandatories
-* Create a trivia form with multiple choice or true/false options (your choice).
+* Create a trivia form with multiple choice or true/false options.
 
 * Player will have a limited amount of time to finish the quiz. 
 

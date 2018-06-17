@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Southerngirl13/TriviaGame/blob/master/assets/images/breakin.jpg">
+  <img src="https://github.com/Southerngirl13/TriviaGame/blob/master/assets/images/breakin.jpg" width="60%">
 </h1>
 
 <h2 align="center">

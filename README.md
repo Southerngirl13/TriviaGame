@@ -25,7 +25,7 @@ This Trivia game uses JavaScript for the logic and jQuery to manipulate HTML.
 
 ## Technologies Used
 - Express.js 
- - Moment.js
+ 
  - Express Handlebars
  - Bootstrap
  - Cheerio
